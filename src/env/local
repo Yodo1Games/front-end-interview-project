@@ -1,0 +1,3 @@
+REACT_APP_API_URL=https://cstool-api.yodo1.me
+REACT_APP_APP_NAME=test app - Dev
+REACT_APP_ENV=develop
