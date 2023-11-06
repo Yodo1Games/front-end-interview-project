@@ -4,7 +4,7 @@ import routes from "src/routes/index";
 function App(): JSX.Element {
   const routing = useRoutes(routes);
 
-  return <div>{routing}</div>;
+  return <div style={{ padding: "24px" }}>{routing}</div>;
 }
 
 export default App;

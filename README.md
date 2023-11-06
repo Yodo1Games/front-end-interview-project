@@ -14,7 +14,9 @@ React Hook + TypeScript + [Antd](https://ant.design/components/overview)
 4. After the tag is selected, click the 'Assign Tags' button. The selected tags will be displayed on the 'test page'
 
 ## requirement
-- Use [Antd](https://ant.design/components/overview) components as much as possible. Use [Antd](https://ant.design/components/overview) for all tabs, tags, checkboxes, and form styles
+- Use [Antd](https://ant.design/components/overview) components as much as possible. Use [Antd](https://ant.design/components/overview) for all tabs, tags, ColorPicker,checkboxes, and form styles
+- The images in Figma are just wireframes, the style does not need to follow this, it should be done using Antd style
+- get tag api and post api uses the api in the 'api/index.ts' file
 - The api and data processing logic are written in the 'context/global' file
 - The relevant content of the page is written under the 'views/testPage' file
 

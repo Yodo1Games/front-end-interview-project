@@ -1,4 +1,3 @@
-import env from "src/env";
 import axios from "axios";
 import { message } from "antd";
 
@@ -14,7 +13,7 @@ const getAuthHeader = () => {
 };
 
 const portalService = axios.create({
-  baseURL: env.apiUrl,
+  baseURL: "",
   timeout: 20 * 1000,
 });
 

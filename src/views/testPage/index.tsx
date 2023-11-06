@@ -1,8 +1,12 @@
+import { Typography } from "antd";
+const { Title } = Typography;
 
 const TemplatesView = (): JSX.Element => {
   return (
-    <div>test page</div>
-  )
-}
+    <div>
+      <Title>test page</Title>
+    </div>
+  );
+};
 
-export default TemplatesView
+export default TemplatesView;

@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 import { GlobalContextProvider } from "src/context/global";
+import "src/mock";
 
 // eslint-disable-next-line react/no-deprecated
 ReactDOM.render(
