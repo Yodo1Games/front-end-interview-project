@@ -20,9 +20,6 @@ React Hook + TypeScript + [Antd](https://ant.design/components/overview)
 - The api and data processing logic are written in the 'context/global' file
 - The relevant content of the page is written under the 'views/testPage' file
 
-## How to submit code
-Fork code from this github to your own github, after finishing on your own github, submit pr to this github
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -34,3 +31,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+# Instruction
+
+1. To start the code assessment, you need to fork this repository first.
+2. Create a PR to your own repository(NOT TO US) after you finished the tasks.
+3. Adding Hao Xiaolong(haoxiaolong@yodo1.com) Terry(wh9112@gmail.com) as your repository colaborator, so we can review your code.
+4. Leave a comment to the PR including the infos below, so that we could better recognize you and your CV.
+
+```
+Name: 
+Email:
+Application channel: Linkedin/UpWork/Yodo1 official website
+Position:
+```
+Thanks for your time~
